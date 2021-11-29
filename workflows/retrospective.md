@@ -27,12 +27,12 @@ I helped in terms of developing codes and versions as in used in the index.html 
 ### How were your classmates able to help you?
 For instance how to use the proper syntax and where to access the files needed to be reviewed or worked upon.And also whenever i was stuck i could seek guidance from my classmates on how to get going .
 ### Was anyone especially helpful?
-Yes the likes of Dessai and Lotianf were instrumental in me catching up with rest of the class members since i joined a week late .
+Yes the likes of Dessai and Lotiang were instrumental in me catching up with rest of the class members since i joined a week late .
 ### Was anyone disruptive?
-Not really.
+  Not really.
 ---
 
-## HYF
+## iTalanta
 
 <!-- How did iTalanta do in this module? -->
 
