@@ -30,7 +30,6 @@ For instance how to use the proper syntax and where to access the files needed t
 Yes the likes of Dessai and Lotiang were instrumental in me catching up with rest of the class members since i joined a week late .
 ### Was anyone disruptive?
   Not really.
----
 
 ## iTalanta
 
