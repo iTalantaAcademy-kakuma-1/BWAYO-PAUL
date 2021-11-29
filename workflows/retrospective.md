@@ -48,8 +48,6 @@ Prospect for students to spend extra classes time with their computers.
 The git and github materials.
 ## What iTalanta material did you study least?
 I think on how to create a project since we only tackled the basics.
----
-
 ## Coaches
 
 <!-- How did the coaches do in this module? -->
